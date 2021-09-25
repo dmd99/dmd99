@@ -1,6 +1,6 @@
 # Bienvenue sur mon profil!
 ### 👋 Hi, I’m @dmd99
-Hi! Je suis Maboury Niang ou **@dmd99**. Je suis developpeur web Frontend ( bientôt fullstack ), Si vous voulez en savoir plus sur moi et sur mes réalisations vous pouvez visitez mon portfolio **www.iam-mab.com** et surtout faites vous plaisir 😉.
+Hi! Je suis Maboury Niang ou **@dmd99**. Je suis developpeur web Frontend ( bientôt fullstack ), Si vous voulez en savoir plus sur moi et sur mes réalisations vous pouvez visitez mon portfolio **www.iam-mab.com** et surtout si vous avez besoin de me joindre nmaboury@gmail.com 😉.
 
 - 👀 Tout ce qui concerne l'informatique m'intéresse.
  - 🌱 J'apprends actuellement PHP et Laravel.
