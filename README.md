@@ -1,3 +1,6 @@
+### 👋 Hi !!!
+Seasoned Fullstack Developer specializing in Vue.js/Nuxt.js and PHP/Laravel on the backend. With a proven track record spanning 4 years, I architect and engineer seamless web experiences that seamlessly integrate frontend finesse with backend robustness. My proficiency extends to Flutter development, where I meticulously craft mobile applications that embody innovation. Explore my profile to delve into a portfolio showcasing the synergy of code and creativity.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/maboury.niang.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maboury__niang) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maboury_niang) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@hubaam) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/maboury_niang) 
